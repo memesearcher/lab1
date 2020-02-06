@@ -6,3 +6,27 @@ h1 {
 h2 {
 	text-align: center;
 }
+
+second {
+	border-radius: 30%;
+
+}
+
+first {
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+table, th, td {
+	border: 1px solid black;
+}
+
+th {
+  background-color: #4CAF50;
+  color: blue;
+}
+
+td {
+  background-color: #42f5e0;
+  color: blue;
+}
